@@ -1,0 +1,1 @@
+`Clustering`: Clustering is indeed a type of data mining technique. It's specifically about grouping similar data points together based on some measure of similarity. Clustering aims to find natural groupings or clusters within a dataset.
